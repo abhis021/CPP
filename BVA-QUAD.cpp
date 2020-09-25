@@ -113,5 +113,8 @@ void checkForAllTestCase()
 int main()
 {
     checkForAllTestCase();
+    system("pause");
     return 0;
+
+
 }
